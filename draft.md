@@ -46,6 +46,7 @@ Release Date: 2018-07-02
 
 ###  Resources
 
++ [Add blog post title](add blogpost link)
 
 
 
